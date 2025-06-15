@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammadharoon26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadharoon26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadharoon26" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadharoon26" height="30" width="40" /></a>
+<a href="https://muhammadharoon26.vercel.app" target="_blank"><img align="center" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" alt="muhammadharoon26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
