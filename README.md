@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
 <h3 align="center">DevOps Engineer | Backend Developer | I help businesses build scalable, secure, and high-performance applications with Python, Kubernetes, and CI/CD automation</h3>
 
-- 👨‍💻 All of my projects are available at [muhammadharoon26.vercel.app](https://muhammadharoon26.vercel.app)
+- 👨‍💻 Portfolio at: [muhammadharoon26.vercel.app](https://muhammadharoon26.vercel.app)
 
-- 📫 How to reach me **mharoon1326@gmail.com**
+- 📫 Reach me at: **mharoon1326@gmail.com**
 
 - 📄 Know about my experiences [Developer with 1 year of experience in Azure DevOps, Kubernetes, Jenkins, Python, Django, Node.js, Selenium, and API development. Proficient in Python and database optimization, with a proven ability to build scalable solutions, enhance performance, and drive projects in Agile environments. Committed to continuous learning and emerging technologies.](Developer with 1 year of experience in Azure DevOps, Kubernetes, Jenkins, Python, Django, Node.js, Selenium, and API development. Proficient in Python and database optimization, with a proven ability to build scalable solutions, enhance performance, and drive projects in Agile environments. Committed to continuous learning and emerging technologies.)
 
