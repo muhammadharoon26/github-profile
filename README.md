@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
 <h3 align="center">DevOps Engineer | Backend Developer | I help businesses build scalable, secure, and high-performance applications with Python, Kubernetes, and CI/CD automation</h3>
 
-- 👨‍💻 All of my projects are available at [muhammadharoon26.vercel.app](muhammadharoon26.vercel.app)
+- 👨‍💻 All of my projects are available at [muhammadharoon26.vercel.app](https://muhammadharoon26.vercel.app)
 
 - 📫 How to reach me **mharoon1326@gmail.com**
 
